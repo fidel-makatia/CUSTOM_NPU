@@ -20,9 +20,8 @@ This project implements a Neural Processing Unit (NPU) as a custom IP on a Xilin
     * [Python Scripts](#python-scripts)
     * [Vivado & Vitis](#vivado--vitis)
 6.  [Results](#results)
-7.  [Known Issues & Debugging](#known-issues--debugging)
-8.  [Future Work](#future-work)
-9.  [Repository Structure](#repository-structure)
+7.  [Future Work](#future-work)
+8.  [Repository Structure](#repository-structure)
 
 ## Motivation
 
